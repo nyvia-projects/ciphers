@@ -28,7 +28,7 @@ Run **_test_vigenere_cipher.py_** to make sure algorithm works for your inputs.
 
 ### Comments and possible improvements
 
-You could easily implement encryption for both ciphers by inversing decrypt functions.
+You could easily implement encryption for both ciphers by inversing decryption functions.
 
 For Ceaser cipher you could use a library or AI to automatically select a the plaintext for you from the provided potential options.
 
