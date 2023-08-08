@@ -1,0 +1,2 @@
+key: message
+{7: 'please send us supplies quickly as possible. We are located in the west of pacific ocean. Our enemy will arrive in 12 to 15 hours.'}
